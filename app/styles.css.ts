@@ -20,6 +20,7 @@ export const styleContainer = style({
 export const styleItem = style({
     padding: "10px",
     border: "1px solid #ccc",
+    backgroundColor: "white",
     borderRadius: "5px",
     marginTop: "10px",
     display: "flex",
