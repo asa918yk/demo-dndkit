@@ -15,7 +15,6 @@ export const styleContainer = style({
     border: "1px solid #ccc",
     borderRadius: "5px",
     width: "100%",
-    height: "100%",
 });
 
 export const styleItem = style({
