@@ -130,6 +130,7 @@ export default function Home() {
     <div className={styleWrapper}>
       <h1>My Todo</h1>
       <DndContext
+        id="dnd-context"
         sensors={sensors}
         collisionDetection={closestCorners}
         onDragEnd={handleDragEnd}
